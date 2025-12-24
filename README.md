@@ -2,7 +2,7 @@
 
 **ML-powered dashboard predicting crime rates across Andhra Pradesh & Telangana districts (2018-2024)** using Random Forest + Linear Regression. Deployed on Render.com.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-crime--rate--prediction--tdhttps://crime-rate-prediction-td1f.onrender
+
 - **Interactive Dashboard**: State-wise crime trends + district rankings
 - **ML Predictions**: Predict future crime rates using socio-economic factors
   - Random Forest Regressor (R²: ~0.95)
